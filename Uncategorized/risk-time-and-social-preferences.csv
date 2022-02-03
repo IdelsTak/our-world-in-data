@@ -1,0 +1,28 @@
+﻿Country;Patience;Risk taking;Positive reciprocity;Negative reciprocity;Altruism;Trust
+Hungary;-0.43092;-0.49846;-0.06583;-0.16625;-0.59088;0.53217
+Greece;-0.36009;-0.15707;-0.04377;0.42932;-0.17282;-0.35151
+Portugal;-0.31164;-0.79243;0.18641;-0.37548;0.04927;0.08259
+Chile;-0.15541;0.12537;0.02495;-0.12847;-0.10584;-0.08321
+Mexico;-0.10843;-0.13892;-1.03798;-0.11465;-0.81309;-0.35707
+Turkey;-0.04740;0.02343;-0.44318;0.51676;-0.27897;0.12911
+Estonia;0.02531;-0.29543;-0.49283;-0.22174;-0.56669;0.08613
+Poland;0.07167;-0.07357;-0.16396;0.29653;-0.37012;-0.14705
+Japan;0.10841;-0.35584;-0.23702;0.22034;-0.24104;-0.51873
+Italy;0.10849;-0.09365;0.17642;0.31128;0.34591;-0.07473
+Spain;0.19847;-0.15840;0.31589;0.17694;-0.12915;0.24104
+France;0.35687;-0.03010;-0.12235;0.52805;-0.17471;-0.16548
+South Korea;0.36925;-0.03935;-0.16841;0.66479;0.39362;-0.09921
+Czech Republic;0.38435;-0.02046;-0.30194;0.29034;-0.93962;-0.45068
+Israel;0.45681;0.24376;-0.00995;0.19927;-0.32634;-0.05366
+United Kingdom;0.53502;0.04868;-0.03833;0.02455;0.02845;0.23470
+Finland;0.59955;-0.28276;0.08860;-0.13624;-0.25010;0.09991
+Austria;0.60829;-0.06183;0.16105;-0.05542;-0.03536;0.15463
+Germany;0.62440;-0.04449;-0.07987;-0.29427;-0.05100;-0.11882
+Australia;0.65700;0.13714;0.06966;0.02219;0.15533;0.29897
+Switzerland;0.66974;-0.01934;0.12516;-0.01074;0.09471;0.08828
+Canada;0.71848;0.18355;0.19680;0.02290;0.22934;0.24528
+United States;0.81126;0.11659;0.20365;0.01155;0.40643;0.15037
+Netherlands;0.95171;0.18933;-0.14840;0.41444;-0.19006;0.29806
+Sweden;1.07145;0.05185;-0.02770;-0.09452;-0.16686;0.30693
+
+This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. The following two papers have to be cited in all publications that make use of or refer in any kind to the files provided: Falk, A., Becker, A., Dohmen, T., Enke, B., Huffman, D., & Sunde, U. (2018). Global evidence on economic preferences. Quarterly Journal of Economics, 133 (4), 1645–1692. and Falk, A., Becker, A., Dohmen, T. J., Huffman, D., & Sunde, U. (2016). The preference survey module: A validated instrument for measuring risk, time, and social preferences. IZA Discussion Paper No. 9674.
